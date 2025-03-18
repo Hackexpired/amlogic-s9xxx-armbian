@@ -38,9 +38,9 @@
 #==================================== Set default parameters ====================================
 #
 # Use mainline u-boot by default (-m)
-auto_mainline_uboot="no"
+auto_mainline_uboot="yes"
 # Use ampart partition tool by default (-a)
-use_ampart="yes"
+use_ampart="no"
 # Show all device list by default (-l)
 show_all_list="no"
 
